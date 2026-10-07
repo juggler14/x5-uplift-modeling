@@ -1,0 +1,165 @@
+clients: 200,039, features: 33, treatment share: 0.500, ATE: 0.0332
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 0 Response model         uplift@30 = 0.0211  qini = -0.0073  (5s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 0 S-learner              uplift@30 = 0.0688  qini = 0.0169  (5s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 0 T-learner              uplift@30 = 0.0641  qini = 0.0151  (7s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 0 Class transformation   uplift@30 = 0.0633  qini = 0.0146  (6s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 1 Response model         uplift@30 = 0.0258  qini = -0.0040  (6s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 1 S-learner              uplift@30 = 0.0688  qini = 0.0187  (6s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 1 T-learner              uplift@30 = 0.0655  qini = 0.0172  (8s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 1 Class transformation   uplift@30 = 0.0704  qini = 0.0168  (8s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 2 Response model         uplift@30 = 0.0220  qini = -0.0082  (7s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 2 S-learner              uplift@30 = 0.0683  qini = 0.0200  (6s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 2 T-learner              uplift@30 = 0.0632  qini = 0.0150  (7s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 2 Class transformation   uplift@30 = 0.0696  qini = 0.0170  (7s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 3 Response model         uplift@30 = 0.0171  qini = -0.0088  (8s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 3 S-learner              uplift@30 = 0.0644  qini = 0.0171  (7s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 3 T-learner              uplift@30 = 0.0672  qini = 0.0146  (7s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 3 Class transformation   uplift@30 = 0.0560  qini = 0.0153  (6s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 4 Response model         uplift@30 = 0.0234  qini = -0.0061  (6s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 4 S-learner              uplift@30 = 0.0663  qini = 0.0165  (7s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 4 T-learner              uplift@30 = 0.0698  qini = 0.0145  (7s)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+seed 4 Class transformation   uplift@30 = 0.0651  qini = 0.0158  (6s)
+                      uplift_at_30_mean  uplift_at_30_std  qini_auc_mean  qini_auc_std  uplift_auc_mean  uplift_auc_std
+model                                                                                                                  
+Response model                   0.0219            0.0032        -0.0069        0.0019          -0.0108          0.0030
+S-learner                        0.0673            0.0020         0.0179        0.0015           0.0274          0.0021
+T-learner                        0.0660            0.0026         0.0153        0.0011           0.0230          0.0016
+Class transformation             0.0649            0.0058         0.0159        0.0010           0.0242          0.0016
+{
+  "clients_train_file": 200039,
+  "receipt_lines": 45786568,
+  "transactions": 8045229,
+  "features": 33,
+  "ate_pp": 3.32,
+  "best_model": "S-learner",
+  "summary": [
+    {
+      "model": "Response model",
+      "uplift_at_30_mean": 0.0219,
+      "uplift_at_30_std": 0.0032,
+      "qini_auc_mean": -0.0069,
+      "qini_auc_std": 0.0019,
+      "uplift_auc_mean": -0.0108,
+      "uplift_auc_std": 0.003
+    },
+    {
+      "model": "S-learner",
+      "uplift_at_30_mean": 0.0673,
+      "uplift_at_30_std": 0.002,
+      "qini_auc_mean": 0.0179,
+      "qini_auc_std": 0.0015,
+      "uplift_auc_mean": 0.0274,
+      "uplift_auc_std": 0.0021
+    },
+    {
+      "model": "T-learner",
+      "uplift_at_30_mean": 0.066,
+      "uplift_at_30_std": 0.0026,
+      "qini_auc_mean": 0.0153,
+      "qini_auc_std": 0.0011,
+      "uplift_auc_mean": 0.023,
+      "uplift_auc_std": 0.0016
+    },
+    {
+      "model": "Class transformation",
+      "uplift_at_30_mean": 0.0649,
+      "uplift_at_30_std": 0.0058,
+      "qini_auc_mean": 0.0159,
+      "qini_auc_std": 0.001,
+      "uplift_auc_mean": 0.0242,
+      "uplift_auc_std": 0.0016
+    }
+  ],
+  "best_uplift_at_30_pp": 6.73,
+  "lift_vs_random_targeting": 2.03,
+  "response_model_uplift_at_30_pp": 2.19,
+  "top30_share_of_total_incremental_pct": 62.2,
+  "optimal_fraction_pct": 100,
+  "optimal_fraction_incremental_vs_all_pct": 0.0,
+  "incremental_per_1000_sms_top30": 67.3,
+  "incremental_per_1000_sms_all": 33.2,
+  "bottom_decile_uplift_pp": 1.88
+}
+/Users/timofey1402/Desktop/portfolio/x5-uplift-modeling/.venv/lib/python3.13/site-packages/sklearn/utils/deprecation.py:94: FutureWarning: Function stable_cumsum is deprecated; `sklearn.utils.extmath.stable_cumsum` is deprecated in version 1.8 and will be removed in 1.10. Use `np.cumulative_sum` with the desired dtype directly instead.
+  warnings.warn(msg, category=FutureWarning)
+figures saved
